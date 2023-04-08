@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913007867950",
+    "project_id": "ai-sense-61edc",
+    "storage_bucket": "ai-sense-61edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913007867950:android:b2510c593992011ad407bf",
+        "android_client_info": {
+          "package_name": "com.ai_sense.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913007867950-8ejlu98n81iu7l8l2966ugod0be37t04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75BO_-YxnWdq-LaUV5VRBNNFFHOqXKVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913007867950-8ejlu98n81iu7l8l2966ugod0be37t04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
